@@ -1,6 +1,6 @@
 # This feature allows the calculator to perform subtraction
 
-def subtraction(a,b):
+def subtract(a,b):
     return (a-b)
   
 if __name__ == "__main__":
