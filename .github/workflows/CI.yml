@@ -1,6 +1,6 @@
 # This workflow install Python dependencies, run tests and lint with a variety of Python versions
 
-name: Calculator Test
+name: Calculator Tests
 
 on:
   push:
