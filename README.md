@@ -1,6 +1,6 @@
 # A00093291_DOT502_ASSESSMENT_2
 
-This assessment is was to help me understand the concept of Continuous Integration and Continuous Delivery (CI/CD) pipelines since its an essential aspect of modern software development. This CI/CD pipelines automate the process of building, testing, and deploying software,which allows me as a developer to deliver high-quality code quickly and consistently to production environments. 
+This assessment was to help me understand the concept of Continuous Integration and Continuous Delivery (CI/CD) pipelines since its an essential aspect of modern software development. This CI/CD pipelines automate the process of building, testing, and deploying software,which allows me as a developer to deliver high-quality code quickly and consistently to production environments. 
 This project basically involves the first three stages which are Source control, Unit testing and Build automation.
 
 First, I created a simple math calculator in Python, my favorite programming language.
