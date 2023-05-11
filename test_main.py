@@ -12,7 +12,7 @@ def test_add_zeros():
     assert addition(2,0) == 2
 
 def test_multiplication():
-    assert multiply(2,2) == 2
+    assert multiply(2,2) == 4
 
 def test_subtraction():
-    assert subtract(300,20) == 290
+    assert subtract(300,20) == 280
